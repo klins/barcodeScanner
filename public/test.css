@@ -1,0 +1,14 @@
+
+#valueDiv input{
+	margin-top:20px;
+	height: 50px;
+	width:200px;
+}
+
+button#stopScanner{
+	margin-top:20px;
+}
+
+button#startScanner{
+	margin-top:20px;
+}
